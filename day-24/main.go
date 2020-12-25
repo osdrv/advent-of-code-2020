@@ -1,5 +1,7 @@
 package main
 
+// here is a fantastic intro to cube coordinates: https://stackoverflow.com/questions/1838656/how-do-i-represent-a-hextile-hex-grid-in-memory
+
 import (
 	"io/ioutil"
 	"log"
